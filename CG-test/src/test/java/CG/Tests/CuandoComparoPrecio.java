@@ -24,7 +24,7 @@ public class CuandoComparoPrecio {
         usuario.ingresa();
         usuario.cierraLaNotificacion();
         usuario.buscaElComponente("Mother Asrock A320M-HDV R4.03 Ryzen M-ATX");
-        usuario.comparaPrecio("Mother Asrock A320M-HDV R4.03 Ryzen M-ATX", "$5,431");
+        usuario.comparaPrecio("Mother Asrock A320M-HDV R4.03 Ryzen M-ATX", "$5,430");
     }
 
 }
